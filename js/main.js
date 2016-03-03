@@ -1,7 +1,6 @@
 	alert('Let’s make a story together!');
 }
 
-
 var newColour = prompt('A colour (orange, indigo, etc.')
 
 
@@ -23,14 +22,14 @@ c) Winning
 Enter the letter below:')
 
 if (newStory = 'Snacking') {
-
+  After snacking on {adjective} treats, the {colour} bellied {creature} {verbed} for hours.
 }
 
 if (newStory = 'Escaping') {
-
+  Ameilia {verbed} through the {adjective} {colour} nebula escaping the space {creature}.
 }
 
 if (newStory = 'Winning') {
-
+  Jackson chose his {adjective}, {colour} {creature} card and {verbed} it to the table knowing he won.
 }
 
