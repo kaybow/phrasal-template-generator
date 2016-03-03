@@ -4,7 +4,6 @@ var newAdj;
 var newStory;
 
 	alert('Let’s make a story together!');
-}
 
 var newColour = prompt('A colour (orange, indigo, etc.'))
 var newCreature = prompt('A creature (dragon, moth, etc.'))
